@@ -93,7 +93,7 @@ README.md
 docker-compose.yml
 🚀 Setup Guide
 1 Clone Repository
-git clone https://github.com/yourusername/Healthcare-Appointment-and-Followup-Manager.git
+git clone https://github.com/hamzak786/Healthcare-Appointment-and-Followup-Manager.git
 
 cd Healthcare-Appointment-and-Followup-Manager
 2 Backend Setup
