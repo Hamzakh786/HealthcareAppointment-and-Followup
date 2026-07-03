@@ -1,6 +1,6 @@
 🏥 Healthcare Appointment & Follow-up Manager
 📖 Overview 
-
+ 
 Healthcare Appointment & Follow-up Manager is an AI-powered web application that streamlines the appointment booking process between patients and doctors. The system provides separate portals for Patients, Doctors, and Administrators, while leveraging Large Language Models (LLMs) to generate intelligent pre-visit symptom summaries and post-visit consultation summaries.
 
 It also integrates Google Calendar, Email Notifications, and Medication Reminders to improve communication and patient care.
